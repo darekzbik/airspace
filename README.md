@@ -4,8 +4,8 @@ Repozytorium to zawiera definicje przestrzeni powietrznej Polski oraz krajów s�
 
 # Spis inwentarza
 
-[TRA - sterfy falowe](airspace)
-[AIP punkty VFR](waypoints/EP/VFR)
+* [TRA - sterfy falowe](airspace)
+* [AIP punkty VFR](waypoints/EP/VFR)
 
 # Udział w projekcie
 
